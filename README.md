@@ -1,2 +1,2 @@
 # toolbox
-tools for comprtition
+tools for competition
